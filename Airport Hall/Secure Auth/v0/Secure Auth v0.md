@@ -11,10 +11,3 @@ This was my first time attempting such a task. Here's how I did it:
 4. Ran ```readelf -a chall``` just to get a glimpse at the files inner workings.
 5. Ran ```strings chall``` and tried all output strings as password. None worked. I did notice a few interesting strings though.
 6. Ran ```readelf -x .rodata chall``` gave me an output of hex codes and corresponding strings as expected.
-
-<details>
-  <summary>SPOILER: Flag</summary>
-
-  ```Haven't Solved It Yet LOL```
-  
-</details>
