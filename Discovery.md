@@ -11,7 +11,6 @@ This was an easy Intro challenge to get you onto the CTF network. Here's how I g
 <details>
   <summary>SPOILER: Flag</summary>
 
-  ```NORZH{l3t5_g o_!}
-  ```
+  ```NORZH{l3t5_g o_!}```
   
 </details>
