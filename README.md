@@ -8,4 +8,6 @@ However, I really enjoyed how the event was setup and the difficulty of the chal
 
 **Team:** MissedTheDeadline
 
-**Ranking:** __
+**Score:** __
+
+**Rank:** __
