@@ -25,4 +25,4 @@ Here is a write-up for this challenge by Łukasz Szymański: [Leet Computer](htt
 
 Another great write-up to check out by [@snix0](https://github.com/snix0) [https://github.com/snix0/norzhctf-writeup/blob/main/leet_computer/leet_computer.md](https://github.com/snix0/norzhctf-writeup/blob/main/leet_computer/leet_computer.md)
 
-Oop found another write-up I liked by [stackotter.dev](https://stackotter.dev/):[https://stackotter.dev/blog/norzh-ctf-2021-leet-computer-writeup](https://stackotter.dev/blog/norzh-ctf-2021-leet-computer-writeup)
+Oop found another write-up I liked by [stackotter.dev](https://stackotter.dev/): [https://stackotter.dev/blog/norzh-ctf-2021-leet-computer-writeup](https://stackotter.dev/blog/norzh-ctf-2021-leet-computer-writeup)
