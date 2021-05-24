@@ -23,4 +23,4 @@ My thought process...
 
 Here is a write-up for this challenge by Łukasz Szymański: [Leet Computer](https://szymanski.ninja/en/ctfwriteups/2021/norzhctf2021/leet-computer/)
 
-Another great write-up to check out by @snix0 [https://github.com/snix0/norzhctf-writeup/blob/main/leet_computer/leet_computer.md](https://github.com/snix0/norzhctf-writeup/blob/main/leet_computer/leet_computer.md)
+Another great write-up to check out by [@snix0](https://github.com/snix0) [https://github.com/snix0/norzhctf-writeup/blob/main/leet_computer/leet_computer.md](https://github.com/snix0/norzhctf-writeup/blob/main/leet_computer/leet_computer.md)
