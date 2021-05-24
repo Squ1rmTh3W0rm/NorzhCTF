@@ -22,3 +22,5 @@ My thought process...
 **NOTE:** I did not finish this challenge before the competition ended. However, one of my teammates was able to solve before the competition ended.
 
 Here is a write-up for this challenge by Łukasz Szymański: [Leet Computer](https://szymanski.ninja/en/ctfwriteups/2021/norzhctf2021/leet-computer/)
+
+Another great write-up to check out by @snix0 [https://github.com/snix0/norzhctf-writeup/blob/main/leet_computer/leet_computer.md](https://github.com/snix0/norzhctf-writeup/blob/main/leet_computer/leet_computer.md)
