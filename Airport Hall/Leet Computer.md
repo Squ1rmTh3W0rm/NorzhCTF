@@ -2,7 +2,7 @@
 
 ### One of the attacker is still in the airport hall, and it seems that he is still connected to the airport wifi ! Get a root shell on its machine to continue your investigation. This challenge will give you access to another network.
 
-Still working on it... just dropping commands
+My thought process...
 
 1. ```nmap -Pn 10.40.3.230``` This is the ip that pinged us on the Discovery challenge.
    ```port 22 open ssh```
