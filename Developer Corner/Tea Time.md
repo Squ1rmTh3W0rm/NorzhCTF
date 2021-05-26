@@ -1,4 +1,4 @@
-# Triskel 3: Dead End: Pentest 20
+# Tea Time: Pentest 20
 ## We lost access to our versioning server, the attacker removed our ssh keys. Please get it back and connect to the server using SSH to get the flag. If you can't connect using SSH atleast read the /etc/motd file.
 
 My team was not able to capture the flag. Please see the linked write-up.
